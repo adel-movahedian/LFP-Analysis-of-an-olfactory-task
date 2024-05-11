@@ -68,4 +68,5 @@ pip install numpy scipy matplotlib mne scikit-learn neurodsp
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
 
 ## Contact
-For any questions or feedback, feel free to reach out to [your_email@example.com](mailto:your_email@example.com).
+For any questions or feedback, feel free to reach out to [adel.mov1382@gmail.com](adel.mov1382@gmail.com).
+
